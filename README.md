@@ -11,7 +11,7 @@ npm start
 
 You can send a `GET` request with your search query:
 ```
-http://localhost:3000/search?searchquery=cats
+http://localhost:8080/search?searchquery=cats
 ```
 
 Example Response
