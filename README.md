@@ -2,6 +2,8 @@
 
 Search Engine API with Node/Express and Puppeteer using Google Search
 
+[Blog](https://dev.to/waqasabbasi/optimizing-and-deploying-puppeteer-web-scraper-1nll)
+
 The API scrapes Top Search Results from Google Search
 
 To start the server:
